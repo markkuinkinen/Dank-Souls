@@ -2372,3 +2372,238 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.21-08.16.37:913][927]AssetCheck: New page: Asset Save: Map_Starter
 [2024.03.21-08.16.37:913][927]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyContent/Maps/Map_Starter.Map_Starter
 [2024.03.21-08.16.54:082][355]LogDerivedDataCache: C:/Users/kardo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.253 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14104 files in 15122 folders with total size 2062 MiB.
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 0 (Found bundle for host: 0x802c3160000 [serially])
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 6 (Closing connection)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD7CCE65-4DCF-4FE7-5A49-D2B6439DAD43%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a71df7754ad5a8838cebac9f3a8f194e%7Cc985210ce82941769a03edb7143d14bc%7C93888bee-7b4e-4b7e-8621-c2fa32ff7122&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 9 (  Trying 52.1.172.189:443...)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.1.172.189) port 443)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 25 (Server certificate:)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 34 (Closing connection)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: 00000804F2671E00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-08.17.33:709][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD7CCE65-4DCF-4FE7-5A49-D2B6439DAD43%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a71df7754ad5a8838cebac9f3a8f194e%7Cc985210ce82941769a03edb7143d14bc%7C93888bee-7b4e-4b7e-8621-c2fa32ff7122&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-08.20.22:989][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-08.20.23:098][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.21-08.20.23:134][798]LogSavePackage: Moving output files for package: /Game/MyContent/Maps/Map_Starter
+[2024.03.21-08.20.23:134][798]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/Map_Starter19045090467D738FB9713B9E51617154.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Maps/Map_Starter.umap'
+[2024.03.21-08.20.23:140][798]LogFileHelpers: Saving map 'Map_Starter' took 0.062
+[2024.03.21-08.20.23:149][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 619 ms)
+[2024.03.21-08.20.23:151][798]AssetCheck: New page: Asset Save: Map_Starter
+[2024.03.21-08.20.23:151][798]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyContent/Maps/Map_Starter.Map_Starter
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 0 (Found bundle for host: 0x802c3160ab0 [serially])
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 6 (Closing connection)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD7CCE65-4DCF-4FE7-5A49-D2B6439DAD43%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a71df7754ad5a8838cebac9f3a8f194e%7Cc985210ce82941769a03edb7143d14bc%7C93888bee-7b4e-4b7e-8621-c2fa32ff7122&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 9 (  Trying 54.157.10.6:443...)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.157.10.6) port 443)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 25 (Server certificate:)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 34 (Closing connection)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: 00000804F2DFD200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.21-08.22.33:826][290]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCD7CCE65-4DCF-4FE7-5A49-D2B6439DAD43%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a71df7754ad5a8838cebac9f3a8f194e%7Cc985210ce82941769a03edb7143d14bc%7C93888bee-7b4e-4b7e-8621-c2fa32ff7122&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.21-08.22.53:867][691]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/MyContent/Enemies/anims/Walking_UE_PhysicsAsset.Walking_UE_PhysicsAsset
+[2024.03.21-08.22.53:889][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.21-08.22.53:889][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.21-08.22.53:906][691]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.03.21-08.22.54:205][691]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.03.21-08.22.54:223][691]LogToolMenus: Warning: Toolbar 'AssetEditor.PhysicsAssetEditor.ToolBar.PhysicsAssetEditorMode', item 'ReferencePose', Toolbars do not support: EMultiBlockType::MenuEntry
+[2024.03.21-08.22.54:255][691]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.21-08.22.54:269][691]LogViewport: Scene viewport resized to 1255x666, mode Windowed.
+[2024.03.21-08.22.57:700][874]LogSlate: Window 'Walking_UE_PhysicsAsset' being destroyed
+[2024.03.21-08.22.57:707][874]LogSlate: Window 'Walking_UE_PhysicsAsset' being destroyed
+[2024.03.21-08.22.57:722][874]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.03.21-08.22.57:722][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.21-08.23.10:021][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.21-08.23.11:552][188]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.21-08.23.11:564][188]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/MyContent/Enemies/anims/armor_Base_Color.armor_Base_Color
+	Asset Type: Texture2D
+	Asset Name: /Game/MyContent/Enemies/anims/armor_Normal_OpenGL.armor_Normal_OpenGL
+	Asset Type: Texture2D
+	Asset Name: /Game/MyContent/Enemies/anims/blinn1.blinn1
+	Asset Type: Material
+	Asset Name: /Game/MyContent/Enemies/anims/blinn4.blinn4
+	Asset Type: Material
+	Asset Name: /Game/MyContent/Enemies/anims/blinn5.blinn5
+	Asset Type: Material
+	Asset Name: /Game/MyContent/Enemies/anims/blinn6.blinn6
+	Asset Type: Material
+	Asset Name: /Game/MyContent/Enemies/anims/body_Base_Color.body_Base_Color
+	Asset Type: Texture2D
+[2024.03.21-08.23.11:719][188]LogMaterial: Warning: [AssetLog] /Game/MyContent/Enemies/anims/blinn1.blinn1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.21-08.23.11:719][188]LogMaterial: Warning: blinn1: Requesting an invalid TextureIndex! (1 / 0)
+[2024.03.21-08.23.11:720][188]LogMaterial: Warning: [AssetLog] /Game/MyContent/Enemies/anims/blinn1.blinn1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.21-08.23.11:721][188]LogMaterial: Warning: [AssetLog] /Game/MyContent/Enemies/anims/blinn5.blinn5: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.03.21-08.23.11:782][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.21-08.23.11:787][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.21-08.23.11:791][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.21-08.23.13:636][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.03.21-08.23.15:433][367]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.21-08.23.15:449][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.03.21-08.23.15:454][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.21-08.23.15:460][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.03.21-08.25.55:851][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.21-08.25.57:368][194]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.21-08.25.57:381][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.21-08.25.57:386][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.21-08.25.57:391][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.03.21-08.26.15:014][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.03.21-08.26.16:974][ 12]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.21-08.26.16:996][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.21-08.26.17:002][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.21-08.26.17:006][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.03.21-08.26.23:422][741]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.21-08.26.23:432][741]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.21-08.26.23:440][742]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.21-08.26.26:550][114]LogContentBrowser: Attempting asset rename: NewFolder -> textures
+[2024.03.21-08.26.26:551][114]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.21-08.26.31:382][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-08.26.31:736][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/armor_Base_Color
+[2024.03.21-08.26.31:736][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/armor_Base_ColorBF67CEBD48AD22B472BC1487F7170602.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/armor_Base_Color.uasset'
+[2024.03.21-08.26.32:059][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/armor_Normal_OpenGL
+[2024.03.21-08.26.32:059][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/armor_Normal_OpenGL63C5C2CB4F7C56ACD608D6B2E8E05F16.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/armor_Normal_OpenGL.uasset'
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: ================================================
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Total job queries 314, among them cache hits 162 (51.59%)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 30 distinct outputs (45.45%)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: RAM used: 1,61 MiB of 1,60 GiB budget. Usage: 0.10%
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Shaders Compiled: 66
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100%)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Average time worker was idle: 152.20 s
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 1.27 s
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 2.98 s
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 3.04
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Shader code size: average 42,763 KiB, min 29,613 KiB, max 62,078 KiB
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.98 s
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.50 jobs/batch
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Average processing rate: 11.04 jobs/sec
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Total thread time: 30,611 s
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Total thread preprocess time: 2,565 s
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Percentage time preprocessing: 8.38%
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Effective parallelization: 5.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.60 sec, max 0.91 sec, min 0.36 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.59 sec, max 0.99 sec, min 0.31 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.56 sec, max 0.86 sec, min 0.35 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    4 times, average 0.55 sec, max 0.97 sec, min 0.25 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 0.53 sec, max 0.67 sec, min 0.35 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.23% of total time (compiled    6 times, average 0.42 sec, max 0.68 sec, min 0.32 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.84% of total time (compiled    4 times, average 0.60 sec, max 0.91 sec, min 0.36 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.77% of total time (compiled    4 times, average 0.59 sec, max 0.99 sec, min 0.31 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.62% of total time (compiled    6 times, average 0.39 sec, max 0.57 sec, min 0.29 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.35% of total time (compiled    4 times, average 0.56 sec, max 0.86 sec, min 0.35 sec)
+[2024.03.21-08.26.33:680][600]LogShaderCompilers: Display: ================================================
+[2024.03.21-08.26.33:705][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/blinn1
+[2024.03.21-08.26.33:705][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/blinn18F05FB2549EFE93A8A29C59B413DC625.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/blinn1.uasset'
+[2024.03.21-08.26.35:005][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/blinn4
+[2024.03.21-08.26.35:005][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/blinn4D9AC1487455FEFDF052ACCA10F7F2E24.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/blinn4.uasset'
+[2024.03.21-08.26.35:036][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/blinn5
+[2024.03.21-08.26.35:036][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/blinn5A9D0415D43328C4C37ADB7B0C6D89EC4.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/blinn5.uasset'
+[2024.03.21-08.26.35:067][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/blinn6
+[2024.03.21-08.26.35:067][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/blinn69F7254C74661885D3BA978859048434C.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/blinn6.uasset'
+[2024.03.21-08.26.35:453][600]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/body_Base_Color
+[2024.03.21-08.26.35:453][600]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/body_Base_ColorAE1106874619A035E0ABDF9AF506D26A.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/body_Base_Color.uasset'
+[2024.03.21-08.26.35:462][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.08 sec (total: 4.70 sec)
+[2024.03.21-08.26.35:480][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.21-08.26.35:486][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.03.21-08.26.35:491][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.03.21-08.26.35:532][600]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.21-08.26.35:532][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyContent/Enemies/textures/armor_Base_Color.armor_Base_Color
+[2024.03.21-08.26.35:532][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyContent/Enemies/textures/armor_Normal_OpenGL.armor_Normal_OpenGL
+[2024.03.21-08.26.35:533][600]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyContent/Enemies/textures/blinn1.blinn1
+[2024.03.21-08.26.35:533][600]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyContent/Enemies/textures/blinn4.blinn4
+[2024.03.21-08.26.35:533][600]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyContent/Enemies/textures/blinn5.blinn5
+[2024.03.21-08.26.35:533][600]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyContent/Enemies/textures/blinn6.blinn6
+[2024.03.21-08.26.35:533][600]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyContent/Enemies/textures/body_Base_Color.body_Base_Color
+[2024.03.21-08.26.40:706][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-08.26.40:813][119]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/blinn4
+[2024.03.21-08.26.40:813][119]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/blinn4DDDC4C3B4E86B9975D6FDBA4A908BBB7.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/blinn4.uasset'
+[2024.03.21-08.26.40:815][119]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/blinn6
+[2024.03.21-08.26.40:816][119]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/blinn6EDEB39F840DB800281898F9ACCABF957.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/blinn6.uasset'
+[2024.03.21-08.26.41:107][119]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/head_Base_Color
+[2024.03.21-08.26.41:107][119]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/head_Base_ColorA60DCAD74553BD975758E1BC2E9AF590.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/head_Base_Color.uasset'
+[2024.03.21-08.26.41:374][119]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/textures/weapon_Base_Color
+[2024.03.21-08.26.41:374][119]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/weapon_Base_ColorF3FB297B426CF99A4F20108D57481617.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/textures/weapon_Base_Color.uasset'
+[2024.03.21-08.26.41:383][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 677 ms (total: 5.37 sec)
+[2024.03.21-08.26.41:391][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.21-08.26.41:396][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.03.21-08.26.41:400][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.03.21-08.26.41:439][119]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.21-08.26.41:439][119]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyContent/Enemies/textures/blinn4.blinn4
+[2024.03.21-08.26.41:439][119]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MyContent/Enemies/textures/blinn6.blinn6
+[2024.03.21-08.26.41:439][119]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyContent/Enemies/textures/head_Base_Color.head_Base_Color
+[2024.03.21-08.26.41:439][119]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyContent/Enemies/textures/weapon_Base_Color.weapon_Base_Color
+[2024.03.21-08.26.46:563][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.21-08.26.46:691][671]LogSavePackage: Moving output files for package: /Game/MyContent/Enemies/anims/T-Pose_UE_Anim
+[2024.03.21-08.26.46:692][671]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Saved/T-Pose_UE_AnimB19CF03F4FF67D37A402D18A7A627EAC.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/Dank-Souls/SoulsLike/Content/MyContent/Enemies/anims/T-Pose_UE_Anim.uasset'
+[2024.03.21-08.26.46:701][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 5.51 sec)
+[2024.03.21-08.26.46:707][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.03.21-08.26.46:712][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.21-08.26.46:716][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.03.21-08.26.46:770][671]AssetCheck: New page: Asset Save: T-Pose_UE_Anim
+[2024.03.21-08.26.46:770][671]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MyContent/Enemies/anims/T-Pose_UE_Anim.T-Pose_UE_Anim
