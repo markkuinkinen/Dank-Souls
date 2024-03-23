@@ -7230,3 +7230,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.23-13.21.31:956][201]LogHttp: Warning: 000008892A971900: libcurl info message cache 34 (Closing connection)
 [2024.03.23-13.21.31:956][201]LogHttp: Warning: 000008892A971900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.23-13.21.31:956][201]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9AB316DD-4984-85C7-1273-BF88059506DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=f73cb71b4fc6e6ef9e93958d23d13bb1%7Cce36baa103424f6b8c5096eae334eda7%7C70077ff5-0044-4a7f-91f3-4f40ec4b2ee5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.23-13.23.49:430][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.23-13.23.55:765][612]LogSlate: Window 'Save Content' being destroyed
+[2024.03.23-13.23.55:812][612]LogAutomationController: Ignoring very large delta of 6.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.23-13.23.56:713][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.23-13.23.57:562][704]LogSlate: Window 'Save Content' being destroyed
+[2024.03.23-13.23.57:573][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.23-13.23.57:607][704]LogSavePackage: Moving output files for package: /Game/MyContent/Animations/SwordAndShieldStrafe_UE_Anim
+[2024.03.23-13.23.57:607][704]LogSavePackage: Moving '../../../../../Portfolio/Dank-Souls/SoulsLike/Saved/SwordAndShieldStrafe_UE_AnimEF81F7954E65F54A5C5EEA90FD0FFF87.tmp' to '../../../../../Portfolio/Dank-Souls/SoulsLike/Content/MyContent/Animations/SwordAndShieldStrafe_UE_Anim.uasset'
+[2024.03.23-13.23.57:614][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.20 sec)
+[2024.03.23-13.23.57:616][704]AssetCheck: New page: Asset Save: SwordAndShieldStrafe_UE_Anim
+[2024.03.23-13.23.57:616][704]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/MyContent/Animations/SwordAndShieldStrafe_UE_Anim.SwordAndShieldStrafe_UE_Anim
