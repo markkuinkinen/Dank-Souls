@@ -80,3 +80,5 @@ DerivedDataCache/*
 /SoulsLike/Content/STF
 /SoulsLike/Saved/Crashes
 /SoulsLike/Saved
+*.log
+/SoulsLike/Saved/Config
