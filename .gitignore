@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /SoulsLike/Content/STF
+/SoulsLike/Content/FantasyBundle
+/SoulsLike/Content/IthrisCemetery
