@@ -1329,3 +1329,75 @@ Map_Starter
 
 Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.04.03-17.37.51:336][159]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.03-17.59.43:755][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.03-17.59.43:961][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-17.59.43:969][874]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMap.MainMap
+[2024.04.03-17.59.43:970][874]Cmd: MAP LOAD FILE="../../../../../../Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.03-17.59.43:970][874]LightingResults: New page: Lighting Build
+[2024.04.03-17.59.43:970][874]LoadErrors: New page: Loading map: MainMap.umap
+[2024.04.03-17.59.43:987][874]LogWorld: UWorld::CleanupWorld for Map_Starter, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-17.59.43:988][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-17.59.43:988][874]MapCheck: New page: Map Check
+[2024.04.03-17.59.43:988][874]LightingResults: New page: Lighting Build
+[2024.04.03-17.59.43:993][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.03-17.59.43:996][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.03-17.59.44:004][874]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-17.59.44:004][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-17.59.44:021][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.03-17.59.44:026][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.03-17.59.44:150][874]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2024.04.03-17.59.44:150][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-17.59.44:150][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-17.59.44:150][874]LogAIModule: Creating AISystem for world MainMap
+[2024.04.03-17.59.44:242][874]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.03-17.59.44:251][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.03-17.59.44:255][874]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.03-17.59.44:255][874]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: ================================================
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Total job queries 666, among them cache hits 306 (45.95%)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Tracking 360 distinct input hashes that result in 277 distinct outputs (76.94%)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: RAM used: 9,45 MiB of 1,60 GiB budget. Usage: 0.58%
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Shaders Compiled: 346
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Jobs assigned 346, completed 346 (100%)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Average time worker was idle: 0.13 s
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Time job spent in pending queue: average 4.34 s, longest 12.48 s
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 1.72 s
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Job life time (pending + execution): average 4.91 s, max 13.14
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Shader code size: average 41,283 KiB, min 4,453 KiB, max 92,52 KiB
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.80 s
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Jobs were issued in 346 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Average processing rate: 12.91 jobs/sec
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Total thread time: 167,315 s
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Total thread preprocess time: 11,918 s
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Percentage time preprocessing: 7.12%
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Effective parallelization: 6.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                                                  FVelocityVS (compiled   21 times, average 0.69 sec, max 1.44 sec, min 0.30 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   25 times, average 0.59 sec, max 1.06 sec, min 0.33 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   30 times, average 0.58 sec, max 0.77 sec, min 0.38 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   49 times, average 0.56 sec, max 0.95 sec, min 0.33 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled   17 times, average 0.55 sec, max 1.08 sec, min 0.29 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.41% of total time (compiled   49 times, average 0.56 sec, max 0.95 sec, min 0.33 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.74% of total time (compiled   50 times, average 0.46 sec, max 0.91 sec, min 0.31 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.40% of total time (compiled   30 times, average 0.58 sec, max 0.77 sec, min 0.38 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.77% of total time (compiled   25 times, average 0.59 sec, max 1.06 sec, min 0.33 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display:                                                  FVelocityVS - 8.61% of total time (compiled   21 times, average 0.69 sec, max 1.44 sec, min 0.30 sec)
+[2024.04.03-17.59.44:445][874]LogShaderCompilers: Display: ================================================
+[2024.04.03-17.59.46:784][ 30]LogViewport: Scene viewport resized to 1582x511, mode Windowed.
+[2024.04.03-17.59.46:796][ 31]LogViewport: Scene viewport resized to 1582x516, mode Windowed.
+[2024.04.03-17.59.46:836][ 32]LogViewport: Scene viewport resized to 1582x575, mode Windowed.
+[2024.04.03-17.59.46:880][ 33]LogViewport: Scene viewport resized to 1582x668, mode Windowed.
+[2024.04.03-17.59.46:923][ 34]LogViewport: Scene viewport resized to 1582x729, mode Windowed.
+[2024.04.03-17.59.46:970][ 35]LogViewport: Scene viewport resized to 1582x747, mode Windowed.
+[2024.04.03-18.00.03:100][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-18.00.03:199][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-18.00.03:219][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.03-18.00.03:334][563]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.04.03-18.00.03:335][563]LogSavePackage: Moving '../../../../../../Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Saved/MainMap098B821647B5151CD0D48B91FDF7D401.tmp' to '../../../../../../Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MainMap.umap'
+[2024.04.03-18.00.03:342][563]LogFileHelpers: Saving map 'MainMap' took 0.143
+[2024.04.03-18.00.03:357][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 781 ms)
+[2024.04.03-18.00.03:360][563]AssetCheck: New page: Asset Save: MainMap
+[2024.04.03-18.00.03:360][563]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
