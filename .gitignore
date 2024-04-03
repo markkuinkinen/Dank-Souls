@@ -72,14 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.ini
-/SoulsLike/Saved/Config/CrashReportClient/UECC-Windows-EFE215B84B17C61437836FA0CEDF25DC
-/SoulsLike/Saved/Config/CrashReportClient
+/SoulsLike/Content/STF
 /SoulsLike/Content/FantasyBundle
 /SoulsLike/Content/IthrisCemetery
-/SoulsLike/Content/STF
-/SoulsLike/Saved/Crashes
-/SoulsLike/Saved
-*.log
-/SoulsLike/Saved/Config
-*.log
