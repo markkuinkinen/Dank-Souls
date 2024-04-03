@@ -2375,3 +2375,43 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.03-19.19.08:125][277]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.04.03-19.19.08:125][277]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,073ms to complete.
 [2024.04.03-19.19.09:258][280]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.03-19.20.24:498][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: ================================================
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: Total job queries 635, among them cache hits 293 (46.14%)
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: Tracking 342 distinct input hashes that result in 251 distinct outputs (73.39%)
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: RAM used: 8,95 MiB of 2,40 GiB budget. Usage: 0.36%
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.03-19.20.24:511][602]LogShaderCompilers: Display: ================================================
+[2024.04.03-19.20.43:794][276]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/STF/Pack03-LandscapePro/Environment/Landscape/Water/MI_water_panarReflection_Inst2_Inst.MI_water_panarReflection_Inst2_Inst
+[2024.04.03-19.20.43:801][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-19.20.43:801][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-19.20.43:818][276]LogDerivedDataCache: C:/Users/MACHINE/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:39.352 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 52764 files in 51199 folders with total size 6895 MiB.
+[2024.04.03-19.20.44:056][276]LogViewport: Scene viewport resized to 1285x671, mode Windowed.
+[2024.04.03-19.20.44:123][276]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.03-19.20.54:588][940]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.03-19.20.57:851][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-19.20.57:920][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.03-19.20.58:063][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.03-19.20.58:071][136]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005875 seconds
+[2024.04.03-19.20.58:075][136]LogSavePackage: Moving output files for package: /Game/STF/Pack03-LandscapePro/Environment/Landscape/Water/MI_water_panarReflection_Inst2_Inst
+[2024.04.03-19.20.58:076][136]LogSavePackage: Moving '../../../../../Portfolio/Dank-Souls/SoulsLike/Saved/MI_water_panarReflection_Inst2_IC97DF7B94CCB250A5FE606A8BB8FD1EF.tmp' to '../../../../../Portfolio/Dank-Souls/SoulsLike/Content/STF/Pack03-LandscapePro/Environment/Landscape/Water/MI_water_panarReflection_Inst2_Inst.uasset'
+[2024.04.03-19.20.58:084][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms
+[2024.04.03-19.20.58:085][136]AssetCheck: New page: Asset Save: MI_water_panarReflection_Inst2_Inst
+[2024.04.03-19.20.58:085][136]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/STF/Pack03-LandscapePro/Environment/Landscape/Water/MI_water_panarReflection_Inst2_Inst.MI_water_panarReflection_Inst2_Inst
+[2024.04.03-19.20.59:123][204]LogSlate: Window 'MI_water_panarReflection_Inst2_Inst' being destroyed
+[2024.04.03-19.20.59:128][204]LogSlate: Window 'MI_water_panarReflection_Inst2_Inst' being destroyed
+[2024.04.03-19.20.59:142][204]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-19.20.59:142][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-19.21.08:771][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-19.21.08:807][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../Portfolio/Dank-Souls/SoulsLike/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-19.21.08:832][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.03-19.21.08:949][ 99]LogSavePackage: Moving output files for package: /Game/MainMap
+[2024.04.03-19.21.08:949][ 99]LogSavePackage: Moving '../../../../../Portfolio/Dank-Souls/SoulsLike/Saved/MainMap043A6E4246D605A3CD9BDC9E12CF4F28.tmp' to '../../../../../Portfolio/Dank-Souls/SoulsLike/Content/MainMap.umap'
+[2024.04.03-19.21.08:957][ 99]LogFileHelpers: Saving map 'MainMap' took 0.151
+[2024.04.03-19.21.08:964][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 426 ms)
+[2024.04.03-19.21.08:967][ 99]AssetCheck: New page: Asset Save: MainMap
+[2024.04.03-19.21.08:967][ 99]LogContentValidation: Display: Validating /Script/Engine.World /Game/MainMap.MainMap
