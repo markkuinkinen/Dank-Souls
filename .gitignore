@@ -74,3 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.log
 *.log
+/SoulsLike/Content/FantasyBundle
+/SoulsLike/Content/IthrisCemetery
+/SoulsLike/Content/STF
+/SoulsLike/Saved/Config/CrashReportClient
+/SoulsLike/Saved/Crashes
