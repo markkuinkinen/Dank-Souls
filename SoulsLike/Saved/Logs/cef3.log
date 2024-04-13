@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [0408/093452.341:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+[0408/093631.947:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> Markku
