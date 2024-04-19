@@ -76,3 +76,5 @@ DerivedDataCache/*
 /SoulsLike/Content/FantasyBundle
 /SoulsLike/Content/IthrisCemetery
 /SoulsLike/Content/CastleAssets
+/SoulsLike/Saved/Logs
+/SoulsLike/Saved/Config/CrashReportClient
