@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/STF/Pack03-LandscapePro/Environment/Landscape/Landscape/v2/M_landscape_pro_v2_no_tesselation.uasset",
 				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MainMap.umap",
 				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MainMap_sharedassets/GraveyardBrick_LayerInfo.uasset",
@@ -238,6 +239,10 @@
 				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/fire.uasset",
 				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/fire.uasset",
 				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/NIgaraStuff/fire.uasset"
+=======
+				"D:/Portfolio/Dank-Souls/SoulsLike/Content/MyContent/Maps/Map_Starter.umap",
+				"D:/Portfolio/Dank-Souls/SoulsLike/Content/NEW_MAP.umap"
+>>>>>>> main
 			]
 		}
 	]
