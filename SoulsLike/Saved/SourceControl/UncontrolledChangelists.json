@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/Enemies/MarkkuENEMY/BP_MEnemy.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/Maps/Map_Starter.umap",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/BP_Character.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/Enemies/anims/StandingMeleeAttackBackhand_1__UE_Anim.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/BP_GameMode.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/BP_Checkpoint.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/Models/CfWood.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/UI/HP_StamWidget.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/New_animations/SittingIdle_UE_Anim.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/Interact_Interface.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/New_animations/Player_Sitting.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/New_animations/SittingIdle_UE.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/New_animations/SittingIdle_UE_PhysicsAsset.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/Input_Actions/IM_Player.uasset",
+				"C:/Users/kardo/Desktop/Dank Souls/DANKSOULS/Dank-Souls/SoulsLike/Content/MyContent/Input_Actions/IA_INTERCT.uasset",
 				"D:/Portfolio/Dank-Souls/SoulsLike/Content/MyContent/Maps/Map_Starter.umap",
 				"D:/Portfolio/Dank-Souls/SoulsLike/Content/NEW_MAP.umap"
 			]
