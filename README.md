@@ -1,7 +1,13 @@
 
 # DANK SOLE
 
-A soulslike clone made in Unreal Engine 5 as a part of the project by Markku Inkinen & Karin Domagalska.
+Created alongside Karin Domagalska, this project is our first look into creating a game with Unreal Engine 5. 
+
+It was made to complete the "Portfolio project - 15 ECTS" course at Metropolia University of applied sciences. 
+
+Although the gameplay can feel a little clunky at times, we had fun using Unreal to create it and we're proud of what was achieved. A lot about the engine was learnt in the process of its creation, especially regarding blueprints.
+
+Everything except the assets, animations, and sounds were created and designed by us. No plugins or gameplay templates were used.
 
 
 ## Demo
