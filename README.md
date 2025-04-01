@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/547b4550-1d29-4388-9c29-86fbfd76ad20)
 
 
-Created alongside Karin Domagalska, this project is our first look into creating a game with Unreal Engine 5. 
+Created alongside Karin Domagalska, this project was our first look into creating a game with Unreal Engine 5. 
 
 It was made to complete the "Portfolio project - 15 ECTS" course at Metropolia University of applied sciences. 
 
