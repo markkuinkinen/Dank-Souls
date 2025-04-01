@@ -1,5 +1,5 @@
+![image](https://github.com/user-attachments/assets/547b4550-1d29-4388-9c29-86fbfd76ad20)
 
-# DANK SOLE
 
 Created alongside Karin Domagalska, this project is our first look into creating a game with Unreal Engine 5. 
 
